@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   subheading: {
-    fontSize: 18,
+    fontSize: 18, 
     fontWeight: '600',
     color: '#111111',
     marginTop: 20,
